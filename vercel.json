@@ -8,7 +8,7 @@
     "server": {
       "root": "server",
       "framework": "nestjs",
-      "entrypoint": "main.ts"
+      "entrypoint": "src/main.ts"
     }
   },
   "rewrites": [
